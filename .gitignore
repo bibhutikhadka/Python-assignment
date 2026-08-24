@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# App data - each player's local scores, not project source
+scores.json
+scores_demo.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
